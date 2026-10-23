@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.smartpantry.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mrsih\\Downloads\\SmartPantryManager\\SmartPantryManager\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1,8,9,10,7,11",
+                        "startColumns": "0,0,0,0,0,0",
+                        "startOffsets": "12,732,894,1100,520,1400",
+                        "endLines": "6,8,9,10,7,11",
+                        "endColumns": "8,161,205,299,211,233",
+                        "endOffsets": "519,893,1099,1399,731,1633"
+                    },
+                    "to": {
+                        "startLines": "3,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "105,617,783,993,1297,1513",
+                        "endLines": "8,9,10,11,12,13",
+                        "endColumns": "8,165,209,303,215,237",
+                        "endOffsets": "612,778,988,1292,1508,1746"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mrsih\\Downloads\\SmartPantryManager\\SmartPantryManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "0",
+                        "startColumns": "11",
+                        "startOffsets": "11",
+                        "endColumns": "56",
+                        "endOffsets": "56"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}

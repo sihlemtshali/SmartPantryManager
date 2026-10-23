@@ -1,0 +1,5 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:background="@drawable/card" android:descendantFocusability="blocksDescendants" android:minHeight="100dp">
+<TextView android:id="@+id/row_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="19sp" android:textStyle="bold" android:textColor="#17382B"/>
+<TextView android:id="@+id/row_amount" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="15sp" android:textColor="#246546" android:layout_marginTop="4dp"/>
+<TextView android:id="@+id/row_expiry" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="12sp" android:textColor="#607060" android:layout_marginTop="4dp"/>
+</LinearLayout>

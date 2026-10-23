@@ -1,0 +1,77 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.smartpantry"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10    <!-- Offline pantry app: deliberately no INTERNET, location, map or storage permissions. -->
+11    <application
+11-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:3:5-12:19
+12        android:name="com.example.smartpantry.PantryApp"
+12-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:3:18-43
+13        android:allowBackup="false"
+13-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:3:44-71
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@drawable/ic_pantry"
+16-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:3:105-139
+17        android:label="@string/app_name"
+17-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:3:72-104
+18        android:supportsRtl="true"
+18-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:3:172-198
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:3:140-171
+21        <activity
+21-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:4:9-78
+22            android:name="com.example.smartpantry.SettingsActivity"
+22-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:4:19-51
+23            android:exported="false" />
+23-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:4:52-76
+24        <activity
+24-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:5:9-82
+25            android:name="com.example.smartpantry.RecipeDetailActivity"
+25-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:5:19-55
+26            android:exported="false" />
+26-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:5:56-80
+27        <activity
+27-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:6:9-77
+28            android:name="com.example.smartpantry.RecipesActivity"
+28-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:6:19-50
+29            android:exported="false" />
+29-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:6:51-75
+30        <activity
+30-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:7:9-86
+31            android:name="com.example.smartpantry.SuggestedRecipesActivity"
+31-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:7:19-59
+32            android:exported="false" />
+32-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:7:60-84
+33        <activity
+33-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:8:9-84
+34            android:name="com.example.smartpantry.EditIngredientActivity"
+34-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:8:19-57
+35            android:exported="false" />
+35-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:8:58-82
+36        <activity
+36-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:9:9-11:20
+37            android:name="com.example.smartpantry.PantryActivity"
+37-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:9:19-49
+38            android:exported="true" >
+38-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:9:50-73
+39            <intent-filter>
+39-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:10:13-154
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:10:28-79
+40-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:10:36-77
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:10:79-138
+42-->C:\Users\mrsih\Downloads\SmartPantryManager\SmartPantryManager\app\src\main\AndroidManifest.xml:10:89-136
+43            </intent-filter>
+44        </activity>
+45    </application>
+46
+47</manifest>

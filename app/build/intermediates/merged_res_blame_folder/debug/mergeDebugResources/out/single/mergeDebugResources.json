@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.smartpantry.app-debug-4:/layout_navigation.xml.flat",
+        "source": "com.example.smartpantry.app-main-6:/layout/navigation.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-4:/drawable_card.xml.flat",
+        "source": "com.example.smartpantry.app-main-6:/drawable/card.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-4:/layout_activity_edit.xml.flat",
+        "source": "com.example.smartpantry.app-main-6:/layout/activity_edit.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-4:/layout_activity_recipes.xml.flat",
+        "source": "com.example.smartpantry.app-main-6:/layout/activity_recipes.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-4:/layout_activity_settings.xml.flat",
+        "source": "com.example.smartpantry.app-main-6:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-4:/layout_row_recipe.xml.flat",
+        "source": "com.example.smartpantry.app-main-6:/layout/row_recipe.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-4:/layout_activity_pantry.xml.flat",
+        "source": "com.example.smartpantry.app-main-6:/layout/activity_pantry.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-4:/layout_header.xml.flat",
+        "source": "com.example.smartpantry.app-main-6:/layout/header.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-4:/layout_activity_detail.xml.flat",
+        "source": "com.example.smartpantry.app-main-6:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-4:/drawable_ic_pantry.xml.flat",
+        "source": "com.example.smartpantry.app-main-6:/drawable/ic_pantry.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-4:/layout_row_pantry.xml.flat",
+        "source": "com.example.smartpantry.app-main-6:/layout/row_pantry.xml"
+    }
+]

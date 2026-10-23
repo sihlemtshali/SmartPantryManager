@@ -1,0 +1,5 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="20dp">
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="SMART PANTRY / LESS WASTE" android:textColor="#246546" android:textSize="11sp" android:letterSpacing="0.1" android:textStyle="bold" android:layout_marginBottom="12dp"/>
+<TextView android:id="@+id/page_title" style="@style/PageTitle" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+<TextView android:id="@+id/page_subtitle" style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

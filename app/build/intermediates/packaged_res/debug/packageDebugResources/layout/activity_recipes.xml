@@ -1,0 +1,8 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+<include layout="@layout/header"/>
+<TextView android:id="@+id/summary" style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingHorizontal="20dp" android:paddingBottom="14dp" android:text="Checking ingredients…"/>
+<FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+<ListView android:id="@+id/recipe_list" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingHorizontal="20dp" android:paddingBottom="16dp" android:divider="@android:color/transparent" android:dividerHeight="10dp" android:clipToPadding="false"/>
+<TextView android:id="@+id/empty_text" style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_gravity="center" android:gravity="center" android:padding="32dp" android:visibility="gone"/>
+</FrameLayout><include layout="@layout/navigation"/>
+</LinearLayout>

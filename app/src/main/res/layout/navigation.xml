@@ -1,0 +1,6 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="60dp" android:background="#FFFFFF" android:orientation="horizontal" android:elevation="4dp" android:paddingHorizontal="8dp">
+<Button android:id="@+id/nav_pantry" style="@style/NavButton" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="Pantry"/>
+<Button android:id="@+id/nav_suggested" style="@style/NavButton" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="Cook now"/>
+<Button android:id="@+id/nav_recipes" style="@style/NavButton" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="Recipes"/>
+<Button android:id="@+id/nav_settings" style="@style/NavButton" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="Settings"/>
+</LinearLayout>

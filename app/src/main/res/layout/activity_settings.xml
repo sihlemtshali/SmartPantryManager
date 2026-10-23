@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+<ScrollView android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"><LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:paddingBottom="24dp"><include layout="@layout/header"/>
+<LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:paddingHorizontal="20dp">
+<Switch android:id="@+id/expiry_alerts" android:layout_width="match_parent" android:layout_height="64dp" android:text="Highlight expiry within 3 days" android:textSize="15sp" android:showText="false"/>
+<TextView style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="In-app highlighting only. Expired ingredients are always marked and excluded from matching."/>
+<TextView style="@style/Label" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Default unit for new ingredients" android:labelFor="@id/default_unit"/>
+<Spinner android:id="@+id/default_unit" android:layout_width="match_parent" android:layout_height="52dp"/>
+<Button android:id="@+id/save_settings" style="@style/PrimaryButton" android:layout_width="match_parent" android:layout_height="54dp" android:text="Save default unit" android:layout_marginTop="16dp"/>
+<TextView style="@style/Label" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Matching conventions"/>
+<TextView style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="1 kg = 1000 g; 1 l = 1000 ml.
+1 tsp = 5 ml; 1 tbsp = 15 ml; 1 metric cup = 250 ml.
+Counts, slices and cloves remain separate from weight and volume.
+Ingredients such as salt, oil and water are never assumed available."/>
+<TextView style="@style/Label" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Offline by design"/>
+<TextView style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Java + SQLite. No maps, GPS, accounts or payments. Pantry data stays in this installation; uninstalling or clearing app data removes it."/>
+</LinearLayout></LinearLayout></ScrollView><include layout="@layout/navigation"/>
+</LinearLayout>

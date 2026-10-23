@@ -1,0 +1,649 @@
+[
+  {
+    "name": "Tomato egg skillet",
+    "description": "A simple one-pan meal with five required ingredients.",
+    "minutes": 15,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": "2",
+        "unit": "each"
+      },
+      {
+        "name": "tomato",
+        "quantity": "2",
+        "unit": "each"
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "unit": "each"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "name": "salt",
+        "quantity": "1",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Chop the onion and tomatoes.",
+      "Warm the olive oil in a pan and soften the onion for 4 minutes.",
+      "Add tomatoes and salt; cook for 4 minutes.",
+      "Crack in the eggs, cover and cook until the whites and yolks are set."
+    ]
+  },
+  {
+    "name": "Banana oat bites",
+    "description": "Two ingredients, no assumed cupboard staples.",
+    "minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": "1",
+        "unit": "each"
+      },
+      {
+        "name": "oats",
+        "quantity": "100",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Heat the oven to 180 C and line a tray with baking paper.",
+      "Mash the peeled banana and mix in the oats.",
+      "Shape small bites and bake for 12-15 minutes until firm."
+    ]
+  },
+  {
+    "name": "Scrambled eggs",
+    "description": "Soft eggs with all cooking ingredients accounted for.",
+    "minutes": 8,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": "2",
+        "unit": "each"
+      },
+      {
+        "name": "milk",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "name": "butter",
+        "quantity": "10",
+        "unit": "g"
+      },
+      {
+        "name": "salt",
+        "quantity": "1",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Whisk the eggs, milk and salt.",
+      "Melt the butter in a pan over low heat.",
+      "Add the egg mixture and stir gently until fully set."
+    ]
+  },
+  {
+    "name": "Garlic spinach",
+    "description": "A quick green side dish.",
+    "minutes": 8,
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "spinach",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "name": "garlic",
+        "quantity": "2",
+        "unit": "clove"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "name": "salt",
+        "quantity": "1",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Peel and finely chop the garlic.",
+      "Heat olive oil over medium heat and cook garlic briefly.",
+      "Add spinach and salt and stir until wilted."
+    ]
+  },
+  {
+    "name": "Cheese toast",
+    "description": "Simple toast with measured ingredients.",
+    "minutes": 7,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": "2",
+        "unit": "slice"
+      },
+      {
+        "name": "cheese",
+        "quantity": "40",
+        "unit": "g"
+      },
+      {
+        "name": "butter",
+        "quantity": "10",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Butter the bread and place on a baking tray.",
+      "Top with grated cheese.",
+      "Grill until the cheese melts and the bread is golden."
+    ]
+  },
+  {
+    "name": "Peanut butter banana toast",
+    "description": "A filling breakfast or snack.",
+    "minutes": 5,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": "2",
+        "unit": "slice"
+      },
+      {
+        "name": "peanut butter",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "name": "banana",
+        "quantity": "1",
+        "unit": "each"
+      }
+    ],
+    "steps": [
+      "Toast the bread.",
+      "Spread with peanut butter.",
+      "Peel and slice the banana and arrange on top."
+    ]
+  },
+  {
+    "name": "Apple yogurt bowl",
+    "description": "A no-cook breakfast with fruit.",
+    "minutes": 5,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "apple",
+        "quantity": "1",
+        "unit": "each"
+      },
+      {
+        "name": "yogurt",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "name": "oats",
+        "quantity": "30",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Core and chop the apple.",
+      "Spoon the yogurt into a bowl.",
+      "Top with apple and oats."
+    ]
+  },
+  {
+    "name": "Carrot potato mash",
+    "description": "A soft vegetable side dish.",
+    "minutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "carrot",
+        "quantity": "2",
+        "unit": "each"
+      },
+      {
+        "name": "potato",
+        "quantity": "2",
+        "unit": "each"
+      },
+      {
+        "name": "water",
+        "quantity": "500",
+        "unit": "ml"
+      },
+      {
+        "name": "butter",
+        "quantity": "15",
+        "unit": "g"
+      },
+      {
+        "name": "salt",
+        "quantity": "2",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Peel and chop carrots and potatoes.",
+      "Place in a pan with the measured water and simmer until tender.",
+      "Drain any remaining liquid, add butter and salt, and mash."
+    ]
+  },
+  {
+    "name": "Tomato onion salad",
+    "description": "Fresh chopped vegetables with dressing.",
+    "minutes": 10,
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "tomato",
+        "quantity": "2",
+        "unit": "each"
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "unit": "each"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "name": "lemon juice",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "name": "salt",
+        "quantity": "1",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Chop tomatoes and thinly slice the onion.",
+      "Mix olive oil, lemon juice and salt.",
+      "Toss the vegetables with the dressing."
+    ]
+  },
+  {
+    "name": "Garlic mushrooms",
+    "description": "Golden pan-cooked mushrooms.",
+    "minutes": 12,
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "mushroom",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "name": "garlic",
+        "quantity": "2",
+        "unit": "clove"
+      },
+      {
+        "name": "butter",
+        "quantity": "20",
+        "unit": "g"
+      },
+      {
+        "name": "salt",
+        "quantity": "1",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Slice mushrooms and finely chop peeled garlic.",
+      "Melt butter and fry mushrooms until browned.",
+      "Add garlic and salt; cook for another minute."
+    ]
+  },
+  {
+    "name": "Spinach omelette",
+    "description": "An easy omelette with fresh greens.",
+    "minutes": 12,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": "2",
+        "unit": "each"
+      },
+      {
+        "name": "spinach",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "name": "cheese",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "10",
+        "unit": "ml"
+      },
+      {
+        "name": "salt",
+        "quantity": "1",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Whisk eggs with salt and grate the cheese.",
+      "Heat oil and wilt the spinach.",
+      "Pour in eggs, add cheese, then cook until set and fold."
+    ]
+  },
+  {
+    "name": "Beans on toast",
+    "description": "Use ready-cooked canned beans.",
+    "minutes": 10,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "canned beans",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "name": "bread",
+        "quantity": "2",
+        "unit": "slice"
+      },
+      {
+        "name": "butter",
+        "quantity": "10",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Warm the canned beans in a saucepan.",
+      "Toast the bread and spread with butter.",
+      "Spoon hot beans over the toast."
+    ]
+  },
+  {
+    "name": "Milk porridge",
+    "description": "A measured, simple oat breakfast.",
+    "minutes": 10,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "oats",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "quantity": "250",
+        "unit": "ml"
+      },
+      {
+        "name": "honey",
+        "quantity": "10",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Combine oats and milk in a saucepan.",
+      "Simmer gently, stirring, until oats are soft.",
+      "Stir in the honey and serve."
+    ]
+  },
+  {
+    "name": "Banana milk smoothie",
+    "description": "A blender breakfast.",
+    "minutes": 5,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": "1",
+        "unit": "each"
+      },
+      {
+        "name": "milk",
+        "quantity": "200",
+        "unit": "ml"
+      },
+      {
+        "name": "peanut butter",
+        "quantity": "20",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Peel and slice the banana.",
+      "Add banana, milk and peanut butter to a blender.",
+      "Blend until smooth and serve immediately."
+    ]
+  },
+  {
+    "name": "Lemon chickpea bowl",
+    "description": "Use canned, drained chickpeas.",
+    "minutes": 10,
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "canned chickpeas",
+        "quantity": "250",
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1",
+        "unit": "each"
+      },
+      {
+        "name": "lemon juice",
+        "quantity": "20",
+        "unit": "ml"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "name": "salt",
+        "quantity": "1",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Use canned, drained chickpeas, not dry chickpeas.",
+      "Chop the tomato.",
+      "Combine all ingredients and toss well."
+    ]
+  },
+  {
+    "name": "Quick fried rice",
+    "description": "Only already-cooked rice qualifies.",
+    "minutes": 12,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "cooked rice",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "name": "egg",
+        "quantity": "1",
+        "unit": "each"
+      },
+      {
+        "name": "carrot",
+        "quantity": "1",
+        "unit": "each"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "name": "salt",
+        "quantity": "1",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Use safely stored, chilled cooked rice; grate the carrot.",
+      "Heat oil and stir-fry carrot until tender.",
+      "Add rice and stir-fry until piping hot throughout.",
+      "Push rice aside, scramble in the egg until set, then mix and season."
+    ]
+  },
+  {
+    "name": "Roasted potatoes",
+    "description": "Golden potatoes with no hidden oil or seasoning.",
+    "minutes": 35,
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": "3",
+        "unit": "each"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "name": "salt",
+        "quantity": "2",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Heat the oven to 200 C.",
+      "Cut potatoes into small wedges and toss with oil and salt.",
+      "Spread on a tray and roast for about 30 minutes until tender."
+    ]
+  },
+  {
+    "name": "Pepper egg scramble",
+    "description": "A colourful skillet breakfast.",
+    "minutes": 12,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "bell pepper",
+        "quantity": "1",
+        "unit": "each"
+      },
+      {
+        "name": "egg",
+        "quantity": "2",
+        "unit": "each"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "10",
+        "unit": "ml"
+      },
+      {
+        "name": "salt",
+        "quantity": "1",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Deseed and dice the bell pepper.",
+      "Heat oil and soften the pepper.",
+      "Add beaten eggs and salt and stir until fully set."
+    ]
+  },
+  {
+    "name": "Cheesy rice bowl",
+    "description": "A simple use for safely stored cooked rice.",
+    "minutes": 10,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "cooked rice",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "name": "cheese",
+        "quantity": "40",
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "name": "butter",
+        "quantity": "10",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Place cooked rice, milk and butter in a pan.",
+      "Heat while stirring until piping hot throughout.",
+      "Stir in grated cheese until melted."
+    ]
+  },
+  {
+    "name": "Cucumber yogurt salad",
+    "description": "A fresh chilled side dish.",
+    "minutes": 8,
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "cucumber",
+        "quantity": "1",
+        "unit": "each"
+      },
+      {
+        "name": "yogurt",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "name": "lemon juice",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "name": "salt",
+        "quantity": "1",
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Dice the cucumber.",
+      "Mix yogurt, lemon juice and salt.",
+      "Fold in cucumber and serve chilled."
+    ]
+  }
+]

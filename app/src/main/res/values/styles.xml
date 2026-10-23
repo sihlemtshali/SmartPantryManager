@@ -1,0 +1,13 @@
+<resources>
+<style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+<item name="android:fontFamily">sans</item><item name="android:colorAccent">#246546</item>
+<item name="android:windowLightStatusBar">true</item><item name="android:statusBarColor">#F5F7F0</item>
+<item name="android:navigationBarColor">#FFFFFF</item><item name="android:windowBackground">#F5F7F0</item>
+<item name="android:windowActionModeOverlay">true</item><item name="android:windowSoftInputMode">adjustResize</item>
+</style>
+<style name="PageTitle"><item name="android:textSize">30sp</item><item name="android:textColor">#17382B</item><item name="android:textStyle">bold</item><item name="android:layout_marginBottom">8dp</item></style>
+<style name="Body"><item name="android:textSize">15sp</item><item name="android:textColor">#516457</item><item name="android:lineSpacingExtra">3dp</item></style>
+<style name="Label"><item name="android:textSize">14sp</item><item name="android:textColor">#17382B</item><item name="android:textStyle">bold</item><item name="android:layout_marginTop">16dp</item></style>
+<style name="NavButton" parent="android:style/Widget.Material.Button.Borderless"><item name="android:textSize">11sp</item><item name="android:textAllCaps">false</item><item name="android:minWidth">0dp</item><item name="android:textColor">#246546</item><item name="android:padding">4dp</item></style>
+<style name="PrimaryButton" parent="android:style/Widget.Material.Button.Colored"><item name="android:colorButtonNormal">#246546</item><item name="android:textColor">#FFFFFF</item><item name="android:textAllCaps">false</item></style>
+</resources>
